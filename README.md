@@ -85,19 +85,19 @@ Let us know your thoughts below. And good luck with development!
 
 | Register | Login | 
 | --- | --- | 
-| [<img src="reat-material-app/public/images/register.png" width="481" />](https://react-material-dashboard-pro-laravel.creative-tim.com/auth/register) | [<img src="reat-material-app/public/images/login.png" width="484" />](https://react-material-dashboard-pro-laravel.creative-tim.com/auth/login)  
+| [<img src="react-material-app/public/images/register.png" width="481" />](https://react-material-dashboard-pro-laravel.creative-tim.com/auth/register) | [<img src="react-material-app/public/images/login.png" width="484" />](https://react-material-dashboard-pro-laravel.creative-tim.com/auth/login)  
 
 | Forgot Password Page | Reset Password Page | 
 | --- | --- | 
-| [<img src="reat-material-app/public/images/forgot-password.png" width="483" />](https://react-material-dashboard-pro-laravel.creative-tim.com/auth/forgot-password) | [<img src="reat-material-app/public/images/reset-password.png" width="483" />](https://react-material-dashboard-pro-laravel.creative-tim.com) 
+| [<img src="react-material-app/public/images/forgot-password.png" width="483" />](https://react-material-dashboard-pro-laravel.creative-tim.com/auth/forgot-password) | [<img src="react-material-app/public/images/reset-password.png" width="483" />](https://react-material-dashboard-pro-laravel.creative-tim.com) 
 
 | Dashboard | RTL  |
 | ---  | ---  |
-| [<img src="reat-material-app/public/images/dashboard.png" width="475" />](https://react-material-dashboard-pro-laravel.creative-tim.com/dashboards/analytics) | [<img src="reat-material-app/public/images/rtl.png" width="488"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/pages/rtl)
+| [<img src="react-material-app/public/images/dashboard.png" width="475" />](https://react-material-dashboard-pro-laravel.creative-tim.com/dashboards/analytics) | [<img src="react-material-app/public/images/rtl.png" width="488"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/pages/rtl)
 
 | Profile Page | User Management |
 | ---  | ---  |
-| [<img src="reat-material-app/public/images/profile.png" width="490"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/user-profile) | [<img src="reat-material-app/public/images/user-management.png"  width="476"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/user-management)
+| [<img src="react-material-app/public/images/profile.png" width="490"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/user-profile) | [<img src="react-material-app/public/images/user-management.png"  width="476"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/user-management)
 
 | Role Management | Item Management  |
 | --- | --- | 
@@ -105,7 +105,7 @@ Let us know your thoughts below. And good luck with development!
 
 | Category Management | Tag Management | 
 | --- | --- |
-| [<img src="reat-material-app/public/images/category-management.png" width="483"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/category-management) | [<img src="reat-material-app/public/images/tag-management.png" width="483"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/tag-management)
+| [<img src="react-material-app/public/images/category-management.png" width="483"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/category-management) | [<img src="react-material-app/public/images/tag-management.png" width="483"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/tag-management)
 
 [View More](https://react-material-dashboard-pro-laravel.creative-tim.com/dashboards/analytics).
 
