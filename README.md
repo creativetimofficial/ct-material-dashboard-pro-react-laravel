@@ -101,7 +101,7 @@ Let us know your thoughts below. And good luck with development!
 
 | Role Management | Item Management  |
 | --- | --- | 
-| [<img src="reat-material-app/public/images/role-management.png" width="483"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/role-management)| [<img src="reat-material-app/public/images/item-management.png" width="483"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/item-management)
+| [<img src="reat-material-app/role-management.png" width="483"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/role-management)| [<img src="reat-material-app/item-management.png" width="483"/>](https://react-material-dashboard-pro-laravel.creative-tim.com/examples-api/item-management)
 
 | Category Management | Tag Management | 
 | --- | --- |
